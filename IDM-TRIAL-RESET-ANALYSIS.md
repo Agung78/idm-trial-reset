@@ -78,3 +78,15 @@ Safe maintenance options are limited to non-circumvention work, such as:
 - preserving this report as historical documentation only.
 
 For current IDM use, install a supported IDM release and use its official trial or purchased license flow.
+
+## Recommendations for modern workflow (legitimate use only)
+
+Given the age and circumvention nature of this tool, the only legitimate path forward is to use IDM's official channels:
+
+1. **Official Trial Reset**: IDM may offer a trial reset mechanism through its website or support. Check the official IDM website for current trial policies.
+2. **Reinstallation**: A clean reinstall of IDM (after backing up downloads) may reset the trial period, per IDM's end-user license agreement.
+3. **License Purchase**: For continued use, purchase a license from the official IDM website.
+4. **Educational Use**: This repository can be studied for educational purposes to understand Windows registry manipulation and AutoIt scripting, but should not be used to bypass software licensing.
+5. **Alternative Download Managers**: Consider legitimate, open-source download managers that do not require circumvention.
+
+If IDM provides an official API or supported method for trial management in future versions, this tool could be adapted to use those methods instead of direct registry manipulation. However, as of the latest IDM versions, no such public API exists for trial reset.
