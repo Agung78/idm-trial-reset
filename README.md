@@ -42,6 +42,8 @@ dotnet run --project src/IdmDiag.Windows
 dotnet build src/IdmDiag.Windows -p:EnableWindowsTargeting=true
 ```
 
+Full Windows build, publish, and verification steps: [docs/WINDOWS_BUILD.md](docs/WINDOWS_BUILD.md).
+
 Layout:
 
 - `src/IdmDiag.Core`: checks, report model, exporters (no Windows dependencies).
