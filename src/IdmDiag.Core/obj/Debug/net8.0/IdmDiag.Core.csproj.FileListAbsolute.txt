@@ -1,0 +1,12 @@
+D:\Works\idm-trial-reset\src\IdmDiag.Core\bin\Debug\net8.0\IdmDiag.Core.deps.json
+D:\Works\idm-trial-reset\src\IdmDiag.Core\bin\Debug\net8.0\IdmDiag.Core.dll
+D:\Works\idm-trial-reset\src\IdmDiag.Core\bin\Debug\net8.0\IdmDiag.Core.pdb
+D:\Works\idm-trial-reset\src\IdmDiag.Core\obj\Debug\net8.0\IdmDiag.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\idm-trial-reset\src\IdmDiag.Core\obj\Debug\net8.0\IdmDiag.Core.AssemblyInfoInputs.cache
+D:\Works\idm-trial-reset\src\IdmDiag.Core\obj\Debug\net8.0\IdmDiag.Core.AssemblyInfo.cs
+D:\Works\idm-trial-reset\src\IdmDiag.Core\obj\Debug\net8.0\IdmDiag.Core.csproj.CoreCompileInputs.cache
+D:\Works\idm-trial-reset\src\IdmDiag.Core\obj\Debug\net8.0\IdmDiag.Core.sourcelink.json
+D:\Works\idm-trial-reset\src\IdmDiag.Core\obj\Debug\net8.0\IdmDiag.Core.dll
+D:\Works\idm-trial-reset\src\IdmDiag.Core\obj\Debug\net8.0\refint\IdmDiag.Core.dll
+D:\Works\idm-trial-reset\src\IdmDiag.Core\obj\Debug\net8.0\IdmDiag.Core.pdb
+D:\Works\idm-trial-reset\src\IdmDiag.Core\obj\Debug\net8.0\ref\IdmDiag.Core.dll

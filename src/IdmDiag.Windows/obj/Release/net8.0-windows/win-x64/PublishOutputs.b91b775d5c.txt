@@ -1,0 +1,8 @@
+D:\Works\idm-trial-reset\publish\IdmDiag.pdb
+D:\Works\idm-trial-reset\publish\D3DCompiler_47_cor3.dll
+D:\Works\idm-trial-reset\publish\PenImc_cor3.dll
+D:\Works\idm-trial-reset\publish\PresentationNative_cor3.dll
+D:\Works\idm-trial-reset\publish\vcruntime140_cor3.dll
+D:\Works\idm-trial-reset\publish\wpfgfx_cor3.dll
+D:\Works\idm-trial-reset\publish\IdmDiag.Core.pdb
+D:\Works\idm-trial-reset\publish\IdmDiag.exe
